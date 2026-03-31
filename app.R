@@ -5,7 +5,7 @@ library(shiny)
 
 
 # Data từ file
-co2_data <- read.csv("Ru&Us_ghg_data.csv")
+co2_data <- read.csv("data/Ru&Us_ghg_data.csv")
 
 co2_data <- co2_data %>%
   rename(
@@ -16,7 +16,7 @@ co2_data <- co2_data %>%
 
 # data WB
 
-wb_data <- read.csv("wb_data.csv")
+wb_data <- read.csv("data/wb_data.csv")
 
 # Chuẩn hóa country name
 wb_data$country <- recode(wb_data$country,
