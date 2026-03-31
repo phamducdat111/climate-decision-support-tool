@@ -19,7 +19,7 @@ This project is an interactive decision-support tool developed in R Shiny to sim
 - R Shiny
 - Data visualization
 
-## Live Demo
+## Live Demo on R Shiny
 https://phamducdat.shinyapps.io/project1/
 
 ## Use Case
