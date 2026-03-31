@@ -35,5 +35,12 @@ The project uses publicly available datasets:
 ## Live Demo on R Shiny
 https://phamducdat.shinyapps.io/project1/
 
+## Limitations
+
+- The model is based on a linear regression approach and may not fully capture complex non-linear relationships between variables;
+- Only a limited set of socio-economic drivers (GDP, population, energy use) are included, while other important factors such as policy interventions, technological change, and sector-specific dynamics are not explicitly modeled;
+- Additional variables and sector-specific data could improve the accuracy of the results.
+- Future projections are based on simplified scenario assumptions and do not account for unexpected economic or environmental shocks;
+
 ## Use Case
 This tool supports climate policy analysis and decision-making by allowing users to explore different emission pathways.
