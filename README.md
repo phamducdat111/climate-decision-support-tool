@@ -3,6 +3,11 @@
 ## Overview
 This project is an interactive decision-support tool developed in R Shiny to simulate future CO2 emissions for USA and Russia under different policy scenarios.
 
+## Data Sources
+The project uses publicly available datasets:
+- CO2 emissions data
+- World Bank socio-economic data (GDP, population, energy use)
+
 ## Key Features
 - Scenario-based modelling (Net Zero, Current Policy, High Emission)
 - Integration of socio-economic drivers (GDP, population, energy use)
